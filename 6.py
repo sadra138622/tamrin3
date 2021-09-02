@@ -1,0 +1,11 @@
+import turtle
+r = turtle.pen()
+r.color("blue")
+r.forward(60)
+r.left(90)
+r.forward(30)
+r.left(90)
+r.forward(60)
+r.left(90)
+r.forward(30)
+r.hideturtle()
